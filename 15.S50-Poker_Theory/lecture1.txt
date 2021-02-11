@@ -1,0 +1,25 @@
+Stack size
+- value of your chips
+
+effective stack size
+- how many chips you can lose in a hand (depending on bet/raise order)
+- this can determine how you decide to play your hand (equivalent hands)
+
+playing styles:
+- tight aggressive (TAG, bet often, call seldom) - recommended
+- loose aggressive (LAG, bet often, call often) - could win
+- tight passive (TP/Weak, bet seldom, call seldom) - not optimal
+- loose passive (calling machine, bet seldom, call often) - cannot win
+
+
+M Ratio: effective stack / (sum of blinds and antes)
+% of your stack that is the blinds and antes
+- how many rounds can you survive if you fold every time
+- how important the blinds are to your stack
+- lower M means blinds matter more - do what you can to win the blinds in those cases
+
+Q Ratio: stack size / (sum of all stack sizes at table)
+- not as useful, but you know your standing
+
+Effective M: M * (#players/10)
+- also not really that useful

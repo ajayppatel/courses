@@ -1,0 +1,15 @@
+- Representations that support the making of models
+- Representation exposes constraints
+- This enables algorithms
+
+- Generate and test
+  - Generating possible solutions, give them to a tester, then comes failures or success
+  - Tree leaf, look through book, find name of leaf
+  - Generators should not be redundant and informational
+
+- Rumpelstiltskin Principle - once you name something you get power over it
+
+- Simple ideas can be powerful. Different than trivial
+
+
+20:32
